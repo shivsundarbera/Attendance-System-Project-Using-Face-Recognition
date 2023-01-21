@@ -7,15 +7,15 @@ An attendance system plays a very important role in any organization. Keeping in
 1.  install python 3.8
 
 Download visual studio make sure click cmake option.  
-creat a exiting python 3.8 environment in vs.
+Create an exiting python 3.8 environment in vs.
 
 2.  Download cmake 
 
 ###  LIBRARYS  #####
 --------------------------
-3.  install dilb
-4.  install OpenCV
-5.  install Face-Recognition
-7.  install OS 
-8. install Numpy 
+3.  Install dlib
+4.  Install OpenCV
+5.  Install Face-Recognition
+7.  Install OS 
+8.  Install Numpy 
 
