@@ -3,8 +3,8 @@ An attendance system plays a very important role in any organization. Keeping in
 
 ### PREREQUISITES #####
 
-Download visual studio make sure click cmake option.
-creat a exiting python 3.8 envorment in vs.
+Download visual studio make sure click cmake option.  
+creat a exiting python 3.8 environment in vs.
 
 1.  install python 3.8
 2.  Download cmake 
