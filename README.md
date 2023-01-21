@@ -1,5 +1,5 @@
 # Attendance-System-Project-Using-Face-Recognition
-An attendance system plays a very important role in any organization. Keeping in view the recent development in software and technological fields, a face recognition based attendance system has been planned. 
+Make sure default python version is 3.8 for you system.
 
 ### PREREQUISITES #####
 -----------------------------
@@ -18,4 +18,5 @@ Create an exiting python 3.8 environment in vs.
 5.  Install Face-Recognition
 7.  Install OS 
 8.  Install Numpy 
+
 
